@@ -1,0 +1,5 @@
+2018-01-30 16:32:59,727 - ERROR - this is log
+2018-01-30 16:34:32,615 - DEBUG - Starting new HTTP connection (1): hq.sinajs.cn
+2018-01-30 16:34:32,855 - DEBUG - http://hq.sinajs.cn:80 "GET /?format=text&list=sz000001 HTTP/1.1" 200 155
+2018-01-30 16:34:32,858 - INFO - this is info log
+2018-01-30 16:34:32,859 - ERROR - this is error log
